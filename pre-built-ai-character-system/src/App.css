@@ -1,0 +1,9 @@
+/* Ensure full height for HTML and body */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  height: 100%;
+}
